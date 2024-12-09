@@ -1,0 +1,5 @@
+git status
+git commit -m ("any name you want it to show on repo") to push to your repo
+git branch -m main/master
+git remote add main ("url from repo")
+git push -u origin Head:main (encounter error then you pull)
